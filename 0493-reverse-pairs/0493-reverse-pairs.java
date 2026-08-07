@@ -1,71 +1,55 @@
-import java.util.*;
-
 class Solution {
 
-    int count = 0;
-
     public int reversePairs(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
-        return count;
+        return mergeSort(nums, 0, nums.length - 1);
     }
 
-    private void mergeSort(int[] nums, int low, int high) {
+    private int mergeSort(int[] nums, int left, int right) {
 
-        if (low >= high)
-            return;
+        if (left >= right)
+            return 0;
 
-        int mid = low + (high - low) / 2;
+        int mid = left + (right - left) / 2;
 
-        
-        mergeSort(nums, low, mid);
+        int count = mergeSort(nums, left, mid)
+                  + mergeSort(nums, mid + 1, right);
 
-        mergeSort(nums, mid + 1, high);
+        int j = mid + 1;
 
-        countPairs(nums, low, mid, high);
+        for (int i = left; i <= mid; i++) {
 
-        merge(nums, low, mid, high);
-    }
-
-    private void countPairs(int[] nums, int low, int mid, int high) {
-
-        int right = mid + 1;
-
-        for (int left = low; left <= mid; left++) {
-
-            while (right <= high && (long) nums[left] > 2L * nums[right]) {
-                right++;
+            while (j <= right && (long) nums[i] > 2L * nums[j]) {
+                j++;
             }
 
-            count += right - (mid + 1);
+            count += j - (mid + 1);
         }
-    }
+        int[] temp = new int[right - left + 1];
 
-    private void merge(int[] nums, int low, int mid, int high) {
+        int i = left;
+        j = mid + 1;
+        int k = 0;
 
-        ArrayList<Integer> temp = new ArrayList<>();
-
-        int left = low;
-        int right = mid + 1;
-
-        while (left <= mid && right <= high) {
-
-            if (nums[left] <= nums[right]) {
-                temp.add(nums[left++]);
+        while (i <= mid && j <= right) {
+            if (nums[i] <= nums[j]) {
+                temp[k++] = nums[i++];
             } else {
-                temp.add(nums[right++]);
+                temp[k++] = nums[j++];
             }
         }
 
-        while (left <= mid) {
-            temp.add(nums[left++]);
+        while (i <= mid) {
+            temp[k++] = nums[i++];
         }
 
-        while (right <= high) {
-            temp.add(nums[right++]);
+        while (j <= right) {
+            temp[k++] = nums[j++];
         }
 
-        for (int i = low; i <= high; i++) {
-            nums[i] = temp.get(i - low);
+        for (i = 0; i < temp.length; i++) {
+            nums[left + i] = temp[i];
         }
+
+        return count;
     }
 }
