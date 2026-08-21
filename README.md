@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0441-arranging-coins) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
