@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
