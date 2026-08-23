@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0441-arranging-coins) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
