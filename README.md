@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
