@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0441-arranging-coins) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
