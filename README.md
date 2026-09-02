@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0796-rotate-string) |
