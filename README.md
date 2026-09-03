@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
