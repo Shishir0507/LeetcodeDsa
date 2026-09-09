@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1922-count-good-numbers) |
+| [3870-count-commas-in-range](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
