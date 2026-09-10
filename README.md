@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0463-island-perimeter) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
