@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
