@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0412-fizz-buzz) |
