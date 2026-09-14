@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0735-asteroid-collision) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0735-asteroid-collision) |
 ## Memoization
 |  |
 | ------- |
