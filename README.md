@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0836-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
