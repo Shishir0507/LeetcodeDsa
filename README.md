@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3870-count-commas-in-range) |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0084-largest-rectangle-in-histogram) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
