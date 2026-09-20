@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1732-find-the-highest-altitude](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
