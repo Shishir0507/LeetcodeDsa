@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0463-island-perimeter) |
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0232-implement-queue-using-stacks) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0503-next-greater-element-ii) |
