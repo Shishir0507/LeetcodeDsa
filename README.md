@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0463-island-perimeter) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
