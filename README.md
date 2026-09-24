@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1732-find-the-highest-altitude) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
 | ------- |
