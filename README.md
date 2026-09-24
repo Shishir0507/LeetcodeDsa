@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0525-contiguous-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0441-arranging-coins) |
+| [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0525-contiguous-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
