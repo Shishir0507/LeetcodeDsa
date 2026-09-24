@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0735-asteroid-collision](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
