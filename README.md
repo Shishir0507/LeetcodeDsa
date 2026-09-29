@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1922-count-good-numbers) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2119-a-number-after-a-double-reversal) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3870-count-commas-in-range) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Linked List
 |  |
 | ------- |
