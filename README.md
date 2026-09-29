@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0493-reverse-pairs) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Algorithm X
