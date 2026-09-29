@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1922-count-good-numbers) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2119-a-number-after-a-double-reversal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## String Matching
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Linked List
 |  |
 | ------- |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0523-continuous-subarray-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
