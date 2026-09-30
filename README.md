@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1903-largest-odd-number-in-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
