@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2974-minimum-number-game) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3870-count-commas-in-range) |
