@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1901-find-a-peak-element-ii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2104-sum-of-subarray-ranges) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2974-minimum-number-game) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String Matching
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shishir0507/LeetcodeDsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Linked List
 |  |
