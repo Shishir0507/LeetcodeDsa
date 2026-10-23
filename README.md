@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2974-minimum-number-game) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shishir0507/LeetcodeDsa/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shishir0507/LeetcodeDsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shishir0507/LeetcodeDsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Algorithm X
 |  |
